@@ -4,6 +4,6 @@
 - 🌱 Atualmente estou aprendendo **JavaScript(Discord.js), HTML e CSS**...
 - 💬 Pergunte-me sobre **Discord.js**...
 
-## Status do GitHub
+## Status
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=tokyonight)
