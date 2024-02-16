@@ -18,3 +18,7 @@ Estou constantemente buscando aprimorar minhas habilidades, e no momento estou i
 Confira meus projetos em meu site: [GeovaneDev](https://geovanedev.github.io/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutir colaborações, ideias ou apenas para bater um papo sobre tecnologia! Vamos criar algo incrível juntos. ✨
+
+## 📊 Minhas estatísticas
+
+![GeovaneDev Estatísticas](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=radical&locale=pt-br)
