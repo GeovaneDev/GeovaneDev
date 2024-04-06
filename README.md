@@ -4,7 +4,7 @@ Olá, sou Geovane, um jovem entusiasta de tecnologia apaixonado por criar soluç
 
 ## 💼 O que estou fazendo
 
-- 🔭 Atualmente, estou focado no projeto [BrInvestAPI](https://github.com/GeovaneDev/BrInvestAPI), uma iniciativa que visa transformar a experiência do investidor brasileiro.
+- 🔭 Atualmente, estou focado no projeto [B3API](https://github.com/GeovaneDev/B3API), uma iniciativa que visa transformar a experiência do investidor brasileiro.
 
 ## 🌱 O que estou aprendendo
 
