@@ -1,24 +1,24 @@
-# Bem-vindo ao meu Perfil! 👋
+# Welcome to my Profile! 👋
 
-Olá, sou Geovane, um jovem entusiasta de tecnologia apaixonado por criar soluções no mundo da programação.
+Hello, I'm Geovane, a young technology enthusiast passionate about creating solutions in the programming world.
 
-## 💼 O que estou fazendo
+## 💼 What I'm Doing
 
-- 🔭 Atualmente, estou focado no projeto [B3API](https://github.com/GeovaneDev/B3API), uma iniciativa que visa transformar a experiência do investidor brasileiro.
+- 🔭 Currently, I'm focused on the [B3API](https://github.com/GeovaneDev/B3API) project, an initiative aimed at transforming the Brazilian investor's experience.
 
-## 🌱 O que estou aprendendo
+## 🌱 What I'm Learning
 
-Estou constantemente buscando aprimorar minhas habilidades, e no momento estou imerso nas tecnologias:
+I'm constantly seeking to improve my skills, and at the moment, I'm immersed in the following technologies:
 
-- **Next.js:** Explorando a eficiência e performance no desenvolvimento web.
-- **HTML, CSS e JavaScript:** Aprimorando as bases essenciais para construção de interfaces interativas.
+- **Next.js:** Exploring efficiency and performance in web development.
+- **HTML, CSS, and JavaScript:** Enhancing the essential foundations for building interactive interfaces.
 
-## 🚀 Meus Projetos
+## 🚀 My Projects
 
-Confira meus projetos em meu site: [GeovaneDev](https://geovanedev.github.io/)
+Check out my projects on my website: [GeovaneDev](https://geovanedev.github.io/)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutir colaborações, ideias ou apenas para bater um papo sobre tecnologia! Vamos criar algo incrível juntos. ✨
+Feel free to explore my repositories and get in touch to discuss collaborations, ideas, or just to chat about technology! Let's create something amazing together. ✨
 
-## 📊 Minhas estatísticas
+## 📊 My Statistics
 
-![GeovaneDev Estatísticas](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=radical&locale=pt-br)
+![GeovaneDev Statistics](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=radical)
