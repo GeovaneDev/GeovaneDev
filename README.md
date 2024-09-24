@@ -1,24 +1,37 @@
 # Welcome to my Profile! 👋
 
-Hello, I'm Geovane, a young technology enthusiast passionate about creating solutions in the programming world.
+Hello there! I'm Geovane, a passionate web developer with a keen interest in open-source and self-hosted projects. Welcome to my corner of the digital universe!
 
-## 💼 What I'm Working On
+## 🚀 About Me
 
-- 🔭 Currently, I'm focused on the [B3API](https://github.com/GeovaneDev/B3API) project, an initiative aimed at enhancing the experience of Brazilian investors.
+I'm on a mission to create innovative web solutions and contribute to the open-source community. My journey in tech is fueled by curiosity and a desire to make a positive impact through code.
 
-## 🌱 What I'm Learning
+## 🛠️ Current Projects
 
-I'm constantly seeking to improve my skills, and at the moment, I'm diving into the following technologies:
+- 🌐 [B3API](https://b3api.me): An API dedicated to Brazilian financial market data (B3).
+- 🎸 [Little Dolly Band Website](https://littledolly.com.br/): A sleek website for the Little Dolly band.
+- 🐧 FlexTux (Discontinued): A Discord bot developed in JavaScript.
 
-- **Next.js:** Exploring efficiency and performance in web development.
-- **HTML and CSS** Strengthening the foundational skills for building interactive interfaces.
+## 🌱 Learning & Growing
 
-## 🚀 My Projects
+I'm constantly expanding my skill set. Currently, I'm diving deep into:
 
-Check out my projects on my website: [GeovaneDev](https://geovanedev.me/)
+- Next.js for efficient and performant web applications
+- HTML and CSS techniques for stunning user interfaces
+- Self-hosting solutions for privacy-focused alternatives
 
-Feel free to explore my repositories and get in touch to discuss collaborations, ideas, or just to chat about technology! Let's create something amazing together. ✨
+## 🔧 Technologies & Tools
+- HTML | CSS | JavaScript | Node.js | Discord.js | Git | Self-Hosting
 
-## 📊 My Statistics
+## 🌟 Featured Project: Piped
 
-![GeovaneDev Statistics](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=radical&bg_color=212121&title_color=4CAF50&text_color=ccc&icon_color=4CAF50)
+Check out my self-hosted instance of [Piped](https://piped.geovanedev.me), a privacy-friendly alternative to YouTube.
+
+## 📈 GitHub Stats
+
+![GeovaneDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeovaneDev&show_icons=true&theme=dark&bg_color=0D1117&title_color=28a745&text_color=ccc&icon_color=28a745&border_color=28a745)
+
+## 🤝 Let's Connect!
+
+- 🌐 Portfolio: [geovanedev.me](https://geovanedev.me)
+- 💻 GitHub: [@GeovaneDev](https://github.com/GeovaneDev)
